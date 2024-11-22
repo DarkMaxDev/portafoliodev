@@ -1,5 +1,5 @@
 
-import { BellPlus, BookText, Briefcase, Brush, Code2, CodeSquare, Home, Inbox, Mail, PanelsTopLeft, Phone, UserRound, UsersRound, Wrench } from "lucide-react";
+import { BellPlus, Briefcase, Brush, Code2, CodeSquare, Home, Inbox, Mail, PanelsTopLeft, Phone, UserRound, UsersRound, Wrench, Link } from "lucide-react";
 
 export const dataAboutMe = [
     {
@@ -27,34 +27,27 @@ export const itemsNavbar = [
         id: 1,
         title: "Home",
         icon: <Home size={20} />,
-        link: "#home"
+        Link: "About-me"
     },
     {
         id: 2,
         title: "User",
         icon: <UserRound size={20} />,
-        link: "#about-me"
+        Link: "Contact"
     },
     {
         id: 3,
-        title: "Book",
-        icon: <BookText size={20} />,
-        link: "#about-me"
+        title: "Target",
+        icon: <CodeSquare size={20} />,
+        Link: '#experience'
     },
     {
         id: 4,
-        title: "Target",
-        icon: <CodeSquare size={20} />,
-        link: "#portfolio"
-    },
-    {
-        id: 5,
         title: "Home",
         icon: <Mail size={20} />,
-        link: "#contact"
+        Link: "#contact"
     },
 ];
-
 export const dataSlider = [
     {
         id: 1,

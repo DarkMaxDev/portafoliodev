@@ -49,16 +49,11 @@ const AboutMe = () => {
                             </div>
                         ))}
                     </div>
-                    <p className="my-8"> Soy un desarrollador desafiante que encuentra
-                        inspiración entre líneas de código y algoritmos la moticacion para seguir la carrera
-                        programancion.
-                        Cuando no estoy inmerso en la programación, disfruto del tiempo con la familia, jugar videojuegos,
-                        ademas estoy firmemente en mantener un equilibrio entre
-                        mente, energia y cuerpo. Además, soy un ávido lector, principalmente en las historias de drama y suspenso
-                        y pedro igual en crecimiento personal.
-                        En las redes sociales, no comparto muchas cosas ya que me gusta mantener un perfil normal en mi vida, pero
-                        igual buscando una forma de generar nuevas ideas y proyectos, pero igual estoy disponible
-                        para conectar con otros apasionados del desarrollo de software.</p>
+                    <p className="my-8"> Soy un desarrollador desafiante que encuentra inspiración entre líneas de código y algoritmos la motivación para seguir la carrera programación. 
+                        Cuando no estoy inmerso en la programación, disfruto del tiempo con la familia, jugar videojuegos, además, estoy firmemente en mantener un equilibrio entre mente, 
+                        energía y cuerpo. Además, soy un ávido lector, principalmente en las historias de drama y suspenso. pero igual quiero tener crecimiento personal. En mis redes sociales,
+                         no comparto muchas cosas ya que me gusta mantener un perfil normal en mi vida, pero igual buscando una forma de generar nuevas ideas y proyectos,
+                         estoy disponible para conectar con otros apasionados del desarrollo de software..</p>
                 </div>
             </div>
         </div>
