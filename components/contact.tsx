@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Contact = () => {
     return (
-        <div className="p-6 md:px-12 md:py-44 max-w-5xl mx-auto" id="contact">
+        <div className="p-0 md:px-0 md:py-0 max-w-8xl mx-auto" id="contact">
             <Title title="Contacta conmigo" subtitle="Ponte en contacto conmigo 👋" />
 
             <div className="grid grid-cols-1 md:grid-cols-3 md:gap-7 mt-8">

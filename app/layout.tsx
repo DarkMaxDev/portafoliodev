@@ -5,9 +5,7 @@ import Head from "next/head";
 import { ThemeProvider } from "@/components/theme-provider";
 
 const urbanist = Urbanist({ subsets:["latin"]});
-<html><Head>
-<link rel="icon" href="/favicon.ico" />
-</Head></html>
+
 
 export const metadata: Metadata = {
 
